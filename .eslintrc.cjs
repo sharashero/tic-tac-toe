@@ -18,7 +18,6 @@ module.exports = {
     ],
     'semi': ["warn", "always"],
     'quotes': ['warn', 'single'],
-    'jsx-quotes': ["warn", "prefer-double"],
     'key-spacing': ['warn'],
     'no-trailing-spaces': ['warn'],
     'no-multi-spaces': ['warn'],
